@@ -1,16 +1,27 @@
-## Hi there 👋
+### Hi there, I'm arightway 👋
 
-<!--
-**arightway/arightway** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently a Master of Engineering researcher at the **University of Chinese Academy of Sciences (UCAS)**, specializing in **Signal Processing** and **Computational Imaging**.
 
-Here are some ideas to get you started:
+I am actively seeking **Ph.D. opportunities** (Starting Fall 2026).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+- 🔭 **Current Research:** 
+  - Synthetic Aperture Sonar (SAS) Imaging
+  - Compressed Sensing (CS) & Sparse Reconstruction
+  - Dual-Carrier Frequency Algorithms
+
+- 📄 **Selected Publications:**
+  - *Spatial Undersampling SAS Imaging Algorithm Utilizes Dual-Carrier Frequency Azimuth Compressed Sensing* (IEEE OCEANS 2024)
+  - *Novel Imaging Methods for Squint Mode SAS* (Patent)
+
+- 🛠 **Tech Stack:**
+  - **Languages:** MATLAB (Expert), Python, C++
+  - **Tools:** LaTeX, PyTorch
+
+- 📫 **Contact Me:**
+  - Email: [@gmail.com](mailto:@gmail.com)
+
+---
+<!-- 下面这个是自动生成的统计卡片，会让主页看起来很丰富，建议保留 -->
+![arightway's GitHub stats](https://github-readme-stats.vercel.app/api?username=arightway&show_icons=true&theme=minimal)
